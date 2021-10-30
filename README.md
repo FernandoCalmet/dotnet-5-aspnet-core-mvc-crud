@@ -22,6 +22,12 @@ Update DB migration
 add-migration init
 ```
 
+Delete database
+
+```bash
+drop-database
+```
+
 ## Features:
 
 - [x] Access Denied
