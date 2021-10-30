@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-core-mvc-crud", "aspnet-core-mvc-crud\aspnet-core-mvc-crud.csproj", "{278D4AD4-FEE1-4AFC-BBEB-36496ACE8740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278D4AD4-FEE1-4AFC-BBEB-36496ACE8740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278D4AD4-FEE1-4AFC-BBEB-36496ACE8740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278D4AD4-FEE1-4AFC-BBEB-36496ACE8740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278D4AD4-FEE1-4AFC-BBEB-36496ACE8740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D0D3E6-9CB4-481A-90B6-CC06CDAC5022}
+	EndGlobalSection
+EndGlobal
