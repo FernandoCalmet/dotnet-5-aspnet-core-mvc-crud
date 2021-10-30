@@ -1,7 +1,5 @@
 # CSHARP ASP.NET CORE 5 MVC
 
-Full Login + CRUD base application with Paging, Search Filters and Sorts.
-
 ## Main technologies used:
 
 - C#
@@ -9,6 +7,39 @@ Full Login + CRUD base application with Paging, Search Filters and Sorts.
 - MVC Framework
 - Entity Framework
 - SQL Server
+
+## Setup:
+
+Create DB migration
+
+```bash
+update-database
+```
+
+Update DB migration
+
+```bash
+add-migration init
+```
+
+## Features:
+
+- [x] Access Denied
+- [x] Confirm Email
+- [x] Confirm Email Change
+- [x] External Login
+- [x] Forgot Password
+- [x] Forgot Password Confirmation
+- [x] Lockout
+- [x] Login
+- [x] Login with 2FA
+- [x] Login with Recovery Code
+- [x] Logout
+- [x] Register
+- [x] Register Confirmation
+- [x] Resend Email Confirmation
+- [x] Reset Password
+- [x] Reset Password Confirmation
 
 ---
 :octocat: [Fernando Calmet](https://github.com/FernandoCalmet)

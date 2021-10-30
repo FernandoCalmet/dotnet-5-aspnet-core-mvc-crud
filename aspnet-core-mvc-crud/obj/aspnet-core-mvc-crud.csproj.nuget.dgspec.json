@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer\\Projects\\NET\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj": {}
+    "D:\\Github\\FernandoCalmet\\cs-aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj": {}
   },
   "projects": {
-    "D:\\Developer\\Projects\\NET\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj": {
+    "D:\\Github\\FernandoCalmet\\cs-aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer\\Projects\\NET\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj",
+        "projectUniqueName": "D:\\Github\\FernandoCalmet\\cs-aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj",
         "projectName": "aspnet-core-mvc-crud",
-        "projectPath": "D:\\Developer\\Projects\\NET\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj",
+        "projectPath": "D:\\Github\\FernandoCalmet\\cs-aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud.csproj",
         "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer\\Projects\\NET\\aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\obj\\",
+        "outputPath": "D:\\Github\\FernandoCalmet\\cs-aspnet-core-mvc-crud\\aspnet-core-mvc-crud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
