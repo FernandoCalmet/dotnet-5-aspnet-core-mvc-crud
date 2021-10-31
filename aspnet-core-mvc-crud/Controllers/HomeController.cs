@@ -1,11 +1,11 @@
-﻿using aspnet_core_mvc_crud.Models;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using aspnet_core_mvc_crud.Models;
 
 namespace aspnet_core_mvc_crud.Controllers
 {

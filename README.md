@@ -16,10 +16,11 @@ Create DB migration
 update-database
 ```
 
-Update DB migration
+Add new migration
 
 ```bash
-add-migration init
+add-migration "example name migration"
+update-database
 ```
 
 Delete database

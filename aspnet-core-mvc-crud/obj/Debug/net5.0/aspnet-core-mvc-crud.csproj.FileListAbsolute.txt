@@ -394,3 +394,6 @@ D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\
 D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\net5.0\aspnet-core-mvc-crud.pdb
 D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\net5.0\aspnet-core-mvc-crud.genruntimeconfig.cache
 D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\net5.0\aspnet-core-mvc-crud.csproj.CopyComplete
+D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+D:\Github\FernandoCalmet\cs-aspnet-core-mvc-crud\aspnet-core-mvc-crud\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs

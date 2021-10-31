@@ -21,7 +21,7 @@ namespace aspnet_core_mvc_crud.Services
                 {
                     client.Port = 587;
                     client.UseDefaultCredentials = false;
-                    client.Credentials = new NetworkCredential("khanakat.software@gmail.com", "@myPassword");
+                    client.Credentials = new NetworkCredential("khanakat.software@gmail.com", "@MyPassw0rd");
                     client.EnableSsl = true;
                     client.Send(message);
                 }
