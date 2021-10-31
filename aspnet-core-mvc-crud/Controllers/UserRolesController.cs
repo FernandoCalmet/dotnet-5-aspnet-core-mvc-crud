@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using aspnet_core_mvc_crud.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace aspnet_core_mvc_crud.Controllers
 {
+    [Authorize]
     public class UserRolesController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
@@ -35,6 +37,7 @@ namespace aspnet_core_mvc_crud.Controllers
             }
             return View(userRolesViewModel);
         }
+        [Authorize(Roles = "Administrator,SuperAdmin")]
         public async Task<IActionResult> Manage(string userId)
         {
             ViewBag.userId = userId;
@@ -66,6 +69,7 @@ namespace aspnet_core_mvc_crud.Controllers
             return View(model);
         }
         [HttpPost]
+        [Authorize(Roles = "Administrator,SuperAdmin")]
         public async Task<IActionResult> Manage(List<ManageUserRolesViewModel> model, string userId)
         {
             var user = await _userManager.FindByIdAsync(userId);
