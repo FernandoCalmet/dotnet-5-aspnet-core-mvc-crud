@@ -47,6 +47,8 @@ drop-database
 - [x] Resend Email Confirmation
 - [x] Reset Password
 - [x] Reset Password Confirmation
+- [x] Roles Manager
+- [x] User Roles
 
 ---
 :octocat: [Fernando Calmet](https://github.com/FernandoCalmet)
