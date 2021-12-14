@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace aspnet_core_mvc_crud.Models
+﻿namespace aspnet_core_mvc_crud.Models
 {
     public class ManageUserRolesViewModel
     {

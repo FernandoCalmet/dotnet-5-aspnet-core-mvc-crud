@@ -1,5 +1,3 @@
-using System;
-
 namespace aspnet_core_mvc_crud.Models
 {
     public class ErrorViewModel
