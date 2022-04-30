@@ -43,7 +43,7 @@ Este proyecto es una muestra de gestión de usuarios, inicio de sesión, cierre 
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-MVC-CRUD
+gh repo clone FernandoCalmet/dotnet-5-aspnet-core-mvc-crud
 ```
 
 Crear la migración de base de datos
